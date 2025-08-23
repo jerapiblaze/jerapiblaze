@@ -2,7 +2,7 @@
 
 👍 Aliases: `jerapiblaze` `jerapiblannett` `j12t` `j12tee`
 
-🔗 Links: [Blog](https://jerapiblaze.github.io/) [Gists](https://gist.github.com/jerapiblaze)
+🔗 Links: [🏠Blog](https://jerapiblaze.github.io/) [📜Gists](https://gist.github.com/jerapiblaze) [ℹ️LinkedIn](https://www.linkedin.com/in/mthanh310/)
 
 ----
 
